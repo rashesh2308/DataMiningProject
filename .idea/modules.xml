@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataMining.iml" filepath="$PROJECT_DIR$/.idea/DataMining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Finance/.idea/Finance.iml" filepath="$PROJECT_DIR$/../Finance/.idea/Finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonForFinancialAnalysis/.idea/PythonForFinancialAnalysis.iml" filepath="$PROJECT_DIR$/../PythonForFinancialAnalysis/.idea/PythonForFinancialAnalysis.iml" />
+    </modules>
+  </component>
+</project>
